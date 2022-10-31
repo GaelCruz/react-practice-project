@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.nb-header{
+    background-color:brown;
+    color: aquamarine;
+}
+
+.container-nb{
+    
+}
+
+
